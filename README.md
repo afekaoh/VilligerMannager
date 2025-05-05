@@ -1,6 +1,6 @@
 # Villager Manager Plugin
 
-[![License](https://www.gnu.org/graphics/license-logos-by-christian-candena-cc-by.svg)](LICENSE)
+[![License](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](LICENSE)
 
 ## Description
 

@@ -20,10 +20,11 @@ import java.util.regex.Pattern;
 
 public class VillagerLogCommand implements CommandExecutor {
     private final VillagerManager plugin;
-    private final StringBuilder cachedVillagerLog = new StringBuilder();
+    private final StringBuilder cachedVillagerLog;
 
     public VillagerLogCommand(VillagerManager plugin) {
         this.plugin = plugin;
+        this.cachedVillagerLog = new StringBuilder();
     }
 
     @Override

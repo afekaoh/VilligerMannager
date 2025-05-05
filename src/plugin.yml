@@ -1,0 +1,10 @@
+name: VillagerManager
+version: 1.2
+authors: [Adam S, Avital G]
+main: mc.adam.vg.VillagerManager
+api-version: 1.21.5
+commands:
+  villagerlog:
+    description: Shows all tracked villagers
+    usage: /villagerlog [ |log|setLectern|book|sync|awake|asleep]
+    aliases: [vlog]
